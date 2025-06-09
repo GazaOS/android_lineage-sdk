@@ -5,7 +5,7 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Label for the crDroid system components when they are shown to the user. -->
+    <!-- Label for the GazaOS system components when they are shown to the user. -->
     <string name="lineageos_system_label">GazaOS System</string>
 
     <!-- Labels for the MODIFY_PROFILES permission. -->
@@ -14,15 +14,15 @@
 
     <!-- Labels for the HARDWARE_ABSTRACTION_ACCESS permission. -->
     <string name="permlab_useHardwareFramework">use hardware framework</string>
-    <string name="permdesc_useHardwareFramework">Allows an app access to the crDroid hardware framework.</string>
+    <string name="permdesc_useHardwareFramework">Allows an app access to the GazaOS hardware framework.</string>
 
     <!-- Labels for the WRITE_SETTINGS permission -->
     <string name="permlab_writeSettings">modify GazaOS system settings</string>
-    <string name="permdesc_writeSettings">Allows an app to modify crDroid system settings.</string>
+    <string name="permdesc_writeSettings">Allows an app to modify GazaOS system settings.</string>
 
     <!-- Labels for the WRITE_SECURE_SETTINGS permission -->
     <string name="permlab_writeSecureSettings">modify GazaOS secure system settings</string>
-    <string name="permdesc_writeSecureSettings">Allows an app to modify crDroid secure system settings. Not for use by normal apps.</string>
+    <string name="permdesc_writeSecureSettings">Allows an app to modify GazaOS secure system settings. Not for use by normal apps.</string>
 
     <!-- Profiles -->
     <!-- Names of default profiles. -->
@@ -78,9 +78,9 @@
 
     <!-- About device screen, build date -->
     <string name="build_date">Build date</string>
-    <!-- About device screen, crDroid API Level -->
+    <!-- About device screen, GazaOS API Level -->
     <string name="lineage_api_level">GazaOS API level</string>
-    <!-- About device screen, crDroid updates -->
+    <!-- About device screen, GazaOS updates -->
     <string name="lineage_updates">GazaOS updates</string>
     <!-- About device screen, GazaOS version -->
     <string name="lineage_version">GazaOS version</string>
